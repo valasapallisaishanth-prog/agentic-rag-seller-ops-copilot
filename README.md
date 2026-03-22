@@ -178,6 +178,9 @@ The project includes an interactive interface that allows:
 
 - Retrieval Top-1 Accuracy: ~0.80  
 - Hybrid Routing Accuracy: ~0.85  
+- Improved response grounding vs baseline LLM
+- Retrieval Top-1 Accuracy: ~0.80  
+- Hybrid Routing Accuracy: ~0.85  
 - Improved response grounding vs baseline LLM  
 
 The hybrid system demonstrated better domain classification and reduced irrelevant responses compared to single-agent or non-RAG approaches.
